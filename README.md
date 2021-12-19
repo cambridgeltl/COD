@@ -1,6 +1,6 @@
 # MultiConvAI Dataset
 
-The released dataset comprises manually generated, localised and cross-lingually aligned TOD data in Arabic, Indonesian, Russian and Swahili, as well as the corresponding data in English from the [**SGD**](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) dataset, which served as the source of dialogue prompts. For details of the prompt-based language-specific dialogue generation method please see our paper.   
+The released dataset comprises manually generated, localised and cross-lingually aligned TOD data in Arabic, Indonesian, Russian and Swahili, as well as the corresponding data in English from the [**SGD**](https://github.com/google-research-datasets/dstc8-schema-guided-dialogue) dataset, which served as the source of dialogue prompts. For details of our prompt-based language-specific dialogue generation method please see our paper.   
 
 
 ## Languages
