@@ -6696,9 +6696,9 @@
                                 "start": 46
                             },
                             {
-                                "exclusive_end": 61,
+                                "exclusive_end": 91,
                                 "slot": "new_alarm_name",
-                                "start": 53
+                                "start": 83
                             }
                         ],
                         "state": {
