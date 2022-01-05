@@ -537,9 +537,9 @@
                         "service": "Flights_4",
                         "slots": [
                             {
-                                "exclusive_end": 49,
+                                "exclusive_end": 33,
                                 "slot": "origin_airport",
-                                "start": 47
+                                "start": 26
                             },
                             {
                                 "exclusive_end": 69,
@@ -563,7 +563,7 @@
                                     "Kisumu"
                                 ],
                                 "origin_airport": [
-                                    "SD"
+                                    "Mombasa"
                                 ]
                             }
                         }

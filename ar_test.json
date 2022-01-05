@@ -528,7 +528,7 @@
                                 "act": "INFORM",
                                 "slot": "origin_airport",
                                 "values": [
-                                    "SD"
+                                    "سان ديغو"
                                 ]
                             },
                             {
@@ -549,9 +549,9 @@
                         "service": "Flights_4",
                         "slots": [
                             {
-                                "exclusive_end": 49,
+                                "exclusive_end": 41,
                                 "slot": "origin_airport",
-                                "start": 47
+                                "start": 34
                             },
                             {
                                 "exclusive_end": 29,
@@ -575,7 +575,7 @@
                                     "المكسيك"
                                 ],
                                 "origin_airport": [
-                                    "SD"
+                                    "سان ديغو"
                                 ]
                             }
                         }
@@ -997,7 +997,7 @@
                             {
                                 "exclusive_end": 94,
                                 "slot": "origin_airport",
-                                "start": 89
+                                "start": 87
                             }
                         ],
                         "state": {
@@ -2325,7 +2325,7 @@
                             {
                                 "exclusive_end": 16,
                                 "slot": "origin_airport",
-                                "start": 10
+                                "start": 8
                             }
                         ],
                         "state": {
@@ -10309,7 +10309,7 @@
                                 "act": "INFORM",
                                 "slot": "new_alarm_name",
                                 "values": [
-                                    "Music PRactice"
+                                    "حصة الموسيقى"
                                 ]
                             },
                             {
@@ -10335,9 +10335,9 @@
                         "service": "Alarm_1",
                         "slots": [
                             {
-                                "exclusive_end": 74,
+                                "exclusive_end": 57,
                                 "slot": "new_alarm_name",
-                                "start": 60
+                                "start": 45
                             },
                             {
                                 "exclusive_end": 41,
@@ -10350,7 +10350,7 @@
                             "requested_slots": [],
                             "slot_values": {
                                 "new_alarm_name": [
-                                    "Music PRactice"
+                                    "حصة الموسيقى"
                                 ],
                                 "new_alarm_time": [
                                     "4:45 عصرًا"

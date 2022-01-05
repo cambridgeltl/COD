@@ -10335,9 +10335,9 @@
                         "service": "Alarm_1",
                         "slots": [
                             {
-                                "exclusive_end": 74,
+                                "exclusive_end": 64,
                                 "slot": "new_alarm_name",
-                                "start": 60
+                                "start": 49
                             },
                             {
                                 "exclusive_end": 47,
